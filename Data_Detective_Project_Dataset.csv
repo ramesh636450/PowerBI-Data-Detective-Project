@@ -1,0 +1,501 @@
+RecordID,Date,Region,Product,CustomerSegment,Campaign,Revenue,Cost,Customers
+1,13-06-2025,North,Product A,SMB,Campaign Z,21049,12403,72
+2,23-06-2025,North,Product D,Consumer,Campaign X,11140,6544,278
+3,04-06-2025,North,Product B,SMB,None,19446,13217,162
+4,02-01-2025,South,Product D,Corporate,Campaign Z,15189,8902,192
+5,27-01-2025,North,Product D,Consumer,Campaign Z,27541,20421,42
+6,28-04-2025,North,Product D,Consumer,Campaign Z,46198,34528,205
+7,28-05-2025,South,Product A,Consumer,Campaign Y,15577,21426,139
+8,26-01-2025,West,Product C,Corporate,Campaign Z,15659,10148,127
+9,21-06-2025,East,Product A,SMB,Campaign Y,40005,31669,103
+10,29-04-2025,West,Product C,SMB,Campaign Y,49866,31401,48
+11,28-02-2025,North,Product C,Corporate,Campaign Z,9337,5456,181
+12,24-02-2025,West,Product D,SMB,None,14363,8703,146
+13,24-05-2025,East,Product D,SMB,None,28723,16881,90
+14,11-05-2025,West,Product A,Consumer,Campaign X,15016,11276,236
+15,02-06-2025,North,Product D,Corporate,None,39676,23828,25
+16,24-06-2025,North,Product C,SMB,Campaign Z,12310,7600,100
+17,27-04-2025,North,Product C,SMB,Campaign Y,38271,33106,172
+18,13-06-2025,South,Product B,Corporate,Campaign Y,40348,35562,291
+19,01-01-2025,East,Product D,Consumer,Campaign X,28788,24512,177
+20,03-03-2025,North,Product B,SMB,Campaign X,10613,8413,55
+21,17-05-2025,South,Product B,SMB,None,41031,23225,290
+22,05-06-2025,West,Product B,SMB,Campaign Y,25428,16772,211
+23,23-04-2025,West,Product A,Consumer,Campaign Y,9196,5841,137
+24,31-05-2025,South,Product A,Consumer,Campaign X,13001,10540,36
+25,26-03-2025,North,Product B,Corporate,None,19040,13626,262
+26,04-03-2025,West,Product D,Consumer,Campaign X,11352,8668,201
+27,19-04-2025,West,Product D,SMB,Campaign X,49129,37405,70
+28,16-01-2025,West,Product C,Consumer,Campaign Y,17556,10113,249
+29,05-02-2025,West,Product B,Corporate,None,21371,18160,58
+30,24-04-2025,North,Product A,SMB,Campaign X,11112,9673,141
+31,12-02-2025,West,Product D,Corporate,Campaign Y,31282,26933,104
+32,08-04-2025,North,Product D,Corporate,None,23694,15856,269
+33,09-02-2025,South,Product C,Consumer,Campaign X,42957,34120,51
+34,22-03-2025,North,Product A,SMB,None,37954,32934,291
+35,10-02-2025,North,Product A,Consumer,Campaign X,43996,23194,140
+36,14-04-2025,North,Product B,SMB,Campaign X,45591,24290,287
+37,22-03-2025,East,Product B,SMB,Campaign Z,20642,12514,87
+38,21-06-2025,East,Product D,Corporate,Campaign X,5610,3833,71
+39,19-01-2025,South,Product C,Consumer,Campaign Z,9508,8098,209
+40,14-03-2025,South,Product D,SMB,Campaign Z,45086,40286,290
+41,03-01-2025,East,Product A,Consumer,Campaign Z,12564,10753,99
+42,11-03-2025,East,Product B,SMB,Campaign Z,18342,14215,155
+43,10-05-2025,West,Product C,Consumer,Campaign X,46568,31174,161
+44,12-01-2025,North,Product C,Consumer,Campaign Z,15589,12416,238
+45,24-05-2025,North,Product A,Consumer,Campaign Y,40755,20964,209
+46,30-05-2025,South,Product D,Consumer,Campaign X,25202,16276,40
+47,02-04-2025,South,Product B,SMB,Campaign X,28178,22881,228
+48,08-06-2025,South,Product B,Consumer,Campaign Y,32020,16327,190
+49,16-04-2025,South,Product C,Consumer,Campaign X,30070,25525,260
+50,26-02-2025,South,Product D,Corporate,Campaign Z,19915,11733,118
+51,13-04-2025,East,Product C,Consumer,Campaign Z,28012,21193,224
+52,23-06-2025,East,Product A,Consumer,Campaign Z,16702,12229,155
+53,10-01-2025,North,Product D,Corporate,Campaign Z,33599,24946,281
+54,30-01-2025,West,Product B,Corporate,Campaign X,33577,16811,295
+55,25-06-2025,South,Product C,Corporate,Campaign X,48531,42139,180
+56,19-06-2025,North,Product C,SMB,Campaign Z,48705,32308,226
+57,28-06-2025,East,Product B,Consumer,None,48576,42559,109
+58,07-06-2025,East,Product D,SMB,Campaign X,24914,15316,240
+59,29-05-2025,East,Product D,Corporate,None,49277,28850,262
+60,13-02-2025,North,Product C,SMB,Campaign Z,11120,9200,140
+61,22-06-2025,East,Product B,Consumer,Campaign Y,6600,3422,263
+62,06-06-2025,North,Product D,Corporate,Campaign Y,30164,21046,144
+63,07-02-2025,North,Product A,Corporate,Campaign Y,16526,13578,285
+64,29-04-2025,North,Product B,Consumer,None,13738,11272,291
+65,24-05-2025,East,Product D,SMB,None,40905,27748,101
+66,02-05-2025,West,Product C,Consumer,Campaign Z,39163,27172,142
+67,12-03-2025,West,Product A,SMB,Campaign Z,20367,12397,183
+68,19-05-2025,North,Product B,Consumer,Campaign Y,30102,23406,129
+69,17-01-2025,West,Product D,Corporate,None,32248,16927,235
+70,10-04-2025,North,Product D,Corporate,Campaign X,28052,17376,219
+71,18-04-2025,South,Product D,Consumer,Campaign Z,33562,23300,219
+72,28-03-2025,West,Product B,Corporate,Campaign Y,45780,32670,221
+73,01-06-2025,North,Product A,SMB,None,13893,11763,113
+74,13-01-2025,East,Product D,Corporate,Campaign Y,34799,21949,214
+75,13-03-2025,West,Product C,Consumer,None,6270,5013,46
+76,31-03-2025,South,Product A,SMB,Campaign X,7033,6187,122
+77,06-01-2025,South,Product B,Consumer,None,48873,26672,131
+78,30-04-2025,East,Product C,Consumer,Campaign X,15732,13936,75
+79,29-05-2025,North,Product C,SMB,None,30995,27169,121
+80,20-01-2025,South,Product A,SMB,Campaign Z,49843,36892,81
+81,25-05-2025,North,Product C,SMB,None,48353,31343,279
+82,15-06-2025,East,Product A,Corporate,None,11916,8024,205
+83,12-06-2025,West,Product B,Corporate,Campaign Y,39193,34732,158
+84,07-06-2025,West,Product D,Corporate,Campaign Z,26122,21960,64
+85,13-03-2025,West,Product B,Corporate,None,27046,13833,186
+86,16-02-2025,West,Product B,Corporate,Campaign Z,27304,16706,161
+87,23-05-2025,North,Product B,Consumer,Campaign Y,31635,21999,143
+88,26-06-2025,West,Product D,Corporate,Campaign X,11098,6855,227
+89,27-06-2025,South,Product C,SMB,Campaign Z,36015,25980,196
+90,19-04-2025,East,Product C,SMB,None,22754,14167,138
+91,31-01-2025,South,Product C,Consumer,Campaign Y,17552,10295,267
+92,12-03-2025,East,Product A,Consumer,Campaign Z,19908,12827,174
+93,04-01-2025,South,Product C,Consumer,Campaign X,41264,25453,84
+94,13-06-2025,West,Product A,Consumer,Campaign Z,35762,24728,194
+95,17-02-2025,North,Product C,Corporate,Campaign X,9282,6128,57
+96,28-05-2025,North,Product B,Consumer,Campaign Z,10582,9498,80
+97,23-05-2025,West,Product B,SMB,None,34524,29808,172
+98,31-05-2025,West,Product C,SMB,Campaign X,44952,39739,70
+99,23-02-2025,South,Product C,SMB,Campaign X,15292,9113,58
+100,10-02-2025,North,Product D,Corporate,None,24087,12357,167
+101,30-06-2025,East,Product D,Consumer,Campaign Y,22337,18207,121
+102,19-04-2025,North,Product B,SMB,Campaign Y,22408,18613,56
+103,16-01-2025,South,Product C,SMB,Campaign Z,33780,18570,175
+104,29-06-2025,West,Product C,SMB,None,33688,17927,40
+105,21-04-2025,East,Product C,Consumer,Campaign X,20002,17697,30
+106,22-06-2025,East,Product A,Consumer,None,39010,29671,162
+107,16-02-2025,West,Product D,Consumer,None,27803,18442,184
+108,21-06-2025,North,Product B,Corporate,None,37471,23055,225
+109,21-05-2025,North,Product D,Consumer,Campaign Z,21541,13555,226
+110,12-05-2025,North,Product D,Corporate,Campaign X,17293,12232,275
+111,10-06-2025,West,Product A,Consumer,Campaign Z,40993,22644,167
+112,23-04-2025,West,Product A,Consumer,Campaign Y,15379,9601,27
+113,22-05-2025,West,Product A,Consumer,Campaign X,35241,30970,98
+114,08-05-2025,East,Product C,Corporate,None,35947,21478,94
+115,09-04-2025,South,Product B,Consumer,Campaign Z,32193,20473,279
+116,10-03-2025,North,Product C,SMB,Campaign Z,43465,31815,270
+117,08-02-2025,West,Product D,Corporate,Campaign Z,41170,33147,213
+118,27-04-2025,East,Product B,SMB,Campaign Y,42473,27742,230
+119,12-01-2025,East,Product D,SMB,None,30302,27131,97
+120,07-05-2025,North,Product B,SMB,Campaign Z,11577,9836,245
+121,26-01-2025,West,Product A,SMB,Campaign Y,31868,27035,99
+122,20-01-2025,West,Product C,Corporate,None,47587,25322,188
+123,22-06-2025,West,Product C,SMB,None,40456,20808,55
+124,02-03-2025,East,Product B,SMB,Campaign X,33440,29806,71
+125,24-04-2025,South,Product C,Consumer,Campaign X,26258,21491,170
+126,02-04-2025,East,Product D,Consumer,Campaign Y,39810,26466,112
+127,13-02-2025,South,Product A,SMB,None,45613,35270,274
+128,30-05-2025,South,Product B,Corporate,Campaign Z,35118,21145,24
+129,30-04-2025,East,Product B,Consumer,None,27646,24744,173
+130,13-06-2025,West,Product C,Corporate,Campaign Z,18055,16244,267
+131,28-01-2025,South,Product D,SMB,Campaign Z,42670,26384,171
+132,06-01-2025,West,Product C,Consumer,Campaign X,44741,35706,166
+133,28-02-2025,East,Product B,SMB,Campaign Y,45690,27425,90
+134,10-06-2025,North,Product A,Corporate,None,7186,5258,87
+135,24-01-2025,East,Product C,SMB,None,16510,9581,296
+136,04-04-2025,East,Product B,Corporate,None,24342,19440,193
+137,30-01-2025,West,Product A,Consumer,Campaign Y,49323,38949,223
+138,23-05-2025,East,Product A,Corporate,Campaign X,22331,15958,252
+139,05-04-2025,East,Product D,SMB,Campaign Z,12100,9316,261
+140,07-01-2025,East,Product B,SMB,Campaign X,46641,38690,174
+141,16-06-2025,West,Product A,Consumer,Campaign X,7438,4624,272
+142,30-01-2025,North,Product B,SMB,Campaign Y,30470,20764,296
+143,18-04-2025,South,Product D,SMB,Campaign X,37069,27663,163
+144,09-01-2025,East,Product B,Corporate,None,20473,17241,70
+145,25-06-2025,East,Product C,Consumer,None,23080,13292,82
+146,27-04-2025,North,Product B,SMB,Campaign X,8314,6773,144
+147,02-02-2025,South,Product A,SMB,Campaign Y,43429,25465,139
+148,26-03-2025,South,Product A,Corporate,Campaign Y,13519,9680,109
+149,29-01-2025,North,Product B,Consumer,Campaign Z,20593,15146,28
+150,14-02-2025,East,Product A,Consumer,None,39477,21533,52
+151,02-05-2025,West,Product C,SMB,Campaign X,34622,24288,42
+152,18-06-2025,East,Product D,SMB,Campaign X,8986,8082,225
+153,20-04-2025,North,Product D,SMB,None,9816,8438,184
+154,05-06-2025,South,Product A,Consumer,Campaign Z,29844,34584,300
+155,25-03-2025,West,Product C,Corporate,None,11499,9397,78
+156,17-06-2025,South,Product D,Corporate,Campaign Y,32119,20413,252
+157,13-04-2025,West,Product A,Corporate,None,25481,19519,211
+158,09-02-2025,West,Product A,Consumer,Campaign X,11109,7473,210
+159,03-02-2025,North,Product C,SMB,Campaign X,31922,20476,236
+160,14-01-2025,East,Product C,Corporate,Campaign X,42874,30138,99
+161,18-06-2025,West,Product B,Consumer,Campaign Z,41455,26822,162
+162,27-05-2025,South,Product D,SMB,Campaign X,44911,39145,156
+163,08-01-2025,South,Product C,SMB,Campaign Z,27270,17463,112
+164,06-02-2025,West,Product A,Consumer,Campaign X,11013,8793,130
+165,07-04-2025,West,Product D,Corporate,Campaign Y,29251,18271,186
+166,26-05-2025,North,Product A,Consumer,Campaign Y,45490,23650,61
+167,11-03-2025,West,Product D,Corporate,None,32143,19583,282
+168,30-01-2025,East,Product D,Consumer,Campaign Z,49447,38143,269
+169,15-05-2025,East,Product A,Consumer,None,44277,23108,124
+170,19-03-2025,South,Product B,Corporate,Campaign Z,26503,14523,274
+171,21-04-2025,South,Product B,Corporate,Campaign Y,37785,27337,201
+172,19-01-2025,West,Product A,Corporate,Campaign X,35130,30509,180
+173,28-05-2025,West,Product D,SMB,None,23973,13090,30
+174,25-03-2025,South,Product D,SMB,Campaign Z,10775,7269,74
+175,04-03-2025,West,Product D,SMB,Campaign X,30936,26240,193
+176,26-02-2025,East,Product B,Consumer,Campaign X,39773,27999,198
+177,31-03-2025,South,Product B,Consumer,Campaign Y,21775,12605,98
+178,17-06-2025,North,Product B,SMB,None,35405,28386,249
+179,24-06-2025,East,Product C,Consumer,None,9475,6514,175
+180,12-03-2025,North,Product C,SMB,Campaign X,25342,17351,39
+181,15-01-2025,East,Product C,Consumer,Campaign X,45305,33418,216
+182,29-04-2025,North,Product D,SMB,Campaign Y,26071,19344,276
+183,08-02-2025,North,Product D,Consumer,Campaign Z,10526,7387,108
+184,11-01-2025,South,Product D,Corporate,Campaign Y,28848,18726,164
+185,10-04-2025,West,Product C,SMB,Campaign X,46345,35172,53
+186,26-03-2025,North,Product D,Corporate,Campaign Z,48028,42541,96
+187,27-03-2025,North,Product B,Corporate,Campaign Z,47995,37406,220
+188,03-02-2025,North,Product C,SMB,None,47171,38522,85
+189,21-06-2025,North,Product D,SMB,Campaign Z,6194,3995,112
+190,24-02-2025,East,Product D,Consumer,Campaign Y,14015,7876,171
+191,26-01-2025,North,Product C,SMB,Campaign Y,44141,28722,103
+192,16-02-2025,South,Product D,Consumer,None,28874,22248,141
+193,24-04-2025,East,Product D,Consumer,Campaign Y,25281,22404,260
+194,19-02-2025,East,Product D,Corporate,Campaign Z,30026,21053,234
+195,11-02-2025,South,Product B,Corporate,Campaign X,47020,32548,210
+196,22-05-2025,North,Product A,Corporate,Campaign X,15506,9444,282
+197,07-02-2025,West,Product A,Consumer,None,27910,24342,232
+198,14-01-2025,West,Product C,Consumer,None,10348,6725,34
+199,23-03-2025,North,Product C,Consumer,Campaign Y,7510,4616,261
+200,28-06-2025,South,Product D,Corporate,Campaign X,10192,5173,130
+201,08-02-2025,West,Product A,Corporate,Campaign Y,24736,13573,142
+202,18-04-2025,West,Product A,Consumer,None,44107,31510,283
+203,28-05-2025,South,Product B,Corporate,None,5102,3805,143
+204,27-05-2025,West,Product B,SMB,Campaign X,39307,34977,54
+205,15-05-2025,North,Product D,Corporate,Campaign X,46659,30550,211
+206,06-03-2025,North,Product C,Consumer,Campaign Z,20802,16499,73
+207,29-05-2025,East,Product B,Consumer,Campaign Z,40783,25914,109
+208,25-06-2025,West,Product D,SMB,Campaign Y,13837,7267,254
+209,10-01-2025,East,Product B,Consumer,Campaign Y,7746,4850,178
+210,12-05-2025,West,Product D,Corporate,Campaign X,47395,27320,202
+211,13-01-2025,East,Product C,Consumer,Campaign Z,33636,28785,245
+212,09-04-2025,East,Product B,Corporate,None,29074,25286,285
+213,10-03-2025,North,Product D,Consumer,None,44482,39946,112
+214,20-05-2025,East,Product C,Consumer,Campaign X,26490,20248,176
+215,25-04-2025,West,Product B,SMB,None,28038,19033,200
+216,07-06-2025,West,Product C,SMB,Campaign X,9917,7620,227
+217,04-04-2025,South,Product A,Consumer,None,7280,4007,140
+218,15-06-2025,East,Product C,Corporate,Campaign X,44655,25068,250
+219,05-04-2025,East,Product D,Consumer,Campaign Y,39698,25675,180
+220,16-06-2025,East,Product B,Consumer,Campaign X,17192,12027,218
+221,24-05-2025,North,Product C,Corporate,None,19062,17128,166
+222,27-06-2025,West,Product B,Consumer,Campaign Y,9853,6708,247
+223,23-01-2025,East,Product C,SMB,Campaign X,41044,29423,173
+224,10-02-2025,South,Product C,SMB,Campaign Y,12953,11580,91
+225,02-03-2025,West,Product A,Corporate,Campaign Z,35631,29269,86
+226,06-06-2025,North,Product A,Corporate,None,36369,25832,229
+227,28-05-2025,North,Product B,Corporate,Campaign X,34489,23670,284
+228,30-03-2025,South,Product B,Consumer,None,37955,32803,48
+229,01-02-2025,South,Product C,Consumer,Campaign Y,26145,22847,135
+230,30-03-2025,East,Product A,Corporate,Campaign Y,46619,41143,160
+231,02-02-2025,East,Product A,SMB,Campaign Y,43784,38382,98
+232,13-02-2025,East,Product A,Consumer,Campaign X,7979,7016,155
+233,16-06-2025,South,Product D,SMB,Campaign X,37639,32203,299
+234,16-03-2025,East,Product D,Consumer,None,24492,16689,50
+235,10-02-2025,West,Product D,Corporate,None,18370,11684,93
+236,22-03-2025,East,Product C,Corporate,Campaign Y,29283,20673,74
+237,23-03-2025,South,Product D,Consumer,Campaign Z,34464,20649,69
+238,13-01-2025,East,Product D,SMB,None,21270,18825,101
+239,25-03-2025,East,Product B,Consumer,None,38733,26598,177
+240,08-05-2025,North,Product A,Corporate,None,20776,12175,200
+241,13-01-2025,North,Product C,Corporate,None,23726,16956,75
+242,21-04-2025,South,Product C,SMB,Campaign Z,31427,20313,225
+243,14-01-2025,South,Product C,SMB,Campaign Z,9818,6426,250
+244,21-05-2025,East,Product A,Consumer,Campaign X,30814,20006,193
+245,23-05-2025,East,Product B,Consumer,None,37773,19494,39
+246,05-02-2025,East,Product D,SMB,None,14760,10959,283
+247,05-02-2025,East,Product C,Consumer,None,45402,36127,173
+248,01-06-2025,East,Product D,SMB,Campaign Z,36122,29847,208
+249,26-03-2025,North,Product D,SMB,Campaign Z,46239,23612,262
+250,09-03-2025,South,Product A,SMB,None,16174,11478,214
+251,07-02-2025,South,Product A,SMB,Campaign X,17503,8884,180
+252,18-04-2025,South,Product D,SMB,Campaign Y,31894,22349,261
+253,16-01-2025,South,Product B,SMB,Campaign Z,48399,33460,212
+254,22-03-2025,South,Product D,SMB,Campaign Z,40800,26181,155
+255,06-06-2025,West,Product B,Consumer,Campaign Z,41574,25750,172
+256,15-03-2025,South,Product D,Corporate,None,27859,20175,160
+257,15-03-2025,North,Product D,Corporate,Campaign Z,14599,8995,167
+258,21-01-2025,East,Product D,SMB,Campaign Z,36396,21313,295
+259,11-03-2025,East,Product B,Consumer,Campaign Y,20889,10868,291
+260,27-02-2025,South,Product A,Consumer,None,26646,20968,71
+261,24-06-2025,South,Product A,SMB,Campaign Y,20583,24103,263
+262,03-05-2025,South,Product C,Corporate,Campaign Z,47329,24784,65
+263,16-06-2025,South,Product A,Consumer,None,10738,14431,38
+264,12-04-2025,West,Product B,SMB,Campaign Z,7455,3755,74
+265,27-03-2025,East,Product D,SMB,None,13794,11592,259
+266,11-03-2025,South,Product A,Corporate,Campaign Y,35075,26632,115
+267,04-01-2025,East,Product C,SMB,Campaign Y,16501,12283,227
+268,20-04-2025,East,Product A,Corporate,Campaign X,17109,15272,264
+269,24-03-2025,South,Product A,Corporate,None,20435,13869,156
+270,26-03-2025,East,Product A,Corporate,Campaign Z,20486,10752,80
+271,30-04-2025,East,Product B,Corporate,Campaign Z,12694,9590,171
+272,05-04-2025,South,Product B,Consumer,None,15039,10256,211
+273,17-04-2025,West,Product B,Consumer,Campaign X,39439,26767,205
+274,20-01-2025,North,Product A,SMB,Campaign Y,42532,30396,104
+275,25-03-2025,West,Product A,SMB,Campaign Y,43217,30058,281
+276,25-04-2025,North,Product D,Consumer,None,34936,25348,256
+277,22-06-2025,East,Product A,Corporate,Campaign Z,5197,4148,57
+278,12-01-2025,West,Product C,SMB,Campaign X,40465,36323,55
+279,01-05-2025,North,Product C,Corporate,Campaign Y,13875,11187,235
+280,06-04-2025,West,Product D,Corporate,None,10259,7931,296
+281,04-02-2025,East,Product A,Consumer,None,39658,21849,134
+282,01-01-2025,North,Product C,Corporate,None,39860,25977,137
+283,05-03-2025,West,Product C,Consumer,Campaign Z,17352,15182,77
+284,09-01-2025,West,Product A,Consumer,Campaign Y,9409,5084,37
+285,25-04-2025,North,Product B,SMB,Campaign X,31362,21187,296
+286,25-02-2025,North,Product B,SMB,Campaign Z,20346,16812,183
+287,28-05-2025,East,Product B,Corporate,Campaign Y,48267,34197,231
+288,18-03-2025,East,Product A,SMB,Campaign Y,46025,35508,273
+289,13-01-2025,East,Product D,SMB,Campaign Z,32284,21414,173
+290,07-04-2025,South,Product D,Consumer,Campaign Y,24709,20830,93
+291,29-04-2025,North,Product D,Corporate,Campaign Y,30455,18186,124
+292,26-03-2025,North,Product D,Corporate,Campaign X,40103,31674,117
+293,14-01-2025,East,Product D,SMB,Campaign X,9769,5619,131
+294,03-05-2025,South,Product C,Corporate,Campaign X,18881,16518,80
+295,03-05-2025,South,Product B,Corporate,Campaign Y,41181,25888,164
+296,08-04-2025,West,Product C,Corporate,Campaign Z,28569,20144,274
+297,30-04-2025,North,Product D,Corporate,Campaign Y,29294,18313,43
+298,25-05-2025,South,Product B,Consumer,Campaign Z,41261,36058,233
+299,17-03-2025,South,Product B,Corporate,Campaign Y,29893,21759,145
+300,08-05-2025,East,Product C,Corporate,None,35200,19968,200
+301,13-02-2025,South,Product D,Consumer,Campaign X,39337,20200,58
+302,21-06-2025,North,Product A,Corporate,Campaign Y,46333,27455,97
+303,03-01-2025,South,Product D,Corporate,Campaign X,45490,34349,267
+304,18-06-2025,West,Product A,Consumer,None,5776,2926,160
+305,18-05-2025,East,Product A,SMB,None,16748,9090,69
+306,15-05-2025,South,Product B,Consumer,Campaign Z,28228,17132,223
+307,21-01-2025,East,Product D,Corporate,Campaign Y,19801,12276,61
+308,17-06-2025,North,Product A,Corporate,None,29718,21429,48
+309,13-06-2025,North,Product B,Consumer,None,33436,25343,189
+310,25-05-2025,North,Product A,Consumer,Campaign Y,42144,29087,43
+311,20-01-2025,East,Product A,Consumer,Campaign Z,6026,5330,93
+312,12-04-2025,North,Product C,Consumer,Campaign Y,42138,35137,219
+313,23-06-2025,East,Product D,SMB,Campaign Y,10139,7100,197
+314,14-01-2025,North,Product D,Consumer,Campaign X,27321,20274,223
+315,25-03-2025,North,Product C,Corporate,None,19951,12815,212
+316,21-04-2025,South,Product D,Consumer,Campaign Z,21151,16608,62
+317,10-03-2025,South,Product D,SMB,Campaign Y,30534,19134,74
+318,24-01-2025,North,Product C,Corporate,Campaign Z,22679,12266,64
+319,17-02-2025,West,Product D,SMB,None,11769,6008,201
+320,22-05-2025,North,Product C,Corporate,Campaign X,24126,16056,63
+321,24-05-2025,South,Product B,SMB,None,16108,8948,174
+322,10-03-2025,West,Product B,Consumer,Campaign Y,33486,20439,173
+323,04-05-2025,North,Product C,Corporate,Campaign Y,45962,32096,120
+324,28-04-2025,North,Product B,Corporate,Campaign X,30932,19576,214
+325,26-03-2025,West,Product C,Corporate,Campaign Y,24689,15511,122
+326,03-05-2025,East,Product B,Corporate,Campaign Z,24100,19134,271
+327,28-05-2025,South,Product C,Corporate,Campaign Z,30751,19865,122
+328,01-06-2025,South,Product A,SMB,None,12180,12655,169
+329,27-06-2025,North,Product D,SMB,None,14121,10637,143
+330,06-03-2025,South,Product D,Corporate,Campaign X,34430,30858,265
+331,30-05-2025,West,Product D,SMB,Campaign X,28562,22297,294
+332,02-06-2025,North,Product A,Consumer,Campaign Z,15901,12065,42
+333,25-05-2025,West,Product C,Corporate,Campaign X,5691,3069,133
+334,11-05-2025,South,Product D,Corporate,None,35347,28593,276
+335,08-02-2025,East,Product A,Corporate,Campaign X,24361,16233,63
+336,30-01-2025,South,Product C,Corporate,Campaign Z,34840,28349,286
+337,04-05-2025,East,Product D,Consumer,None,34651,21745,173
+338,12-01-2025,North,Product A,Corporate,Campaign X,49377,40490,144
+339,13-05-2025,South,Product B,Corporate,None,35281,20912,227
+340,11-06-2025,South,Product B,SMB,None,30924,15823,121
+341,26-04-2025,West,Product D,Consumer,Campaign Y,18486,11301,52
+342,28-05-2025,North,Product B,Corporate,Campaign Z,17915,12236,154
+343,21-06-2025,West,Product C,SMB,None,45062,29606,78
+344,31-03-2025,East,Product D,SMB,Campaign Y,49144,38450,172
+345,07-06-2025,North,Product B,Corporate,Campaign X,20635,12838,113
+346,06-04-2025,South,Product D,Corporate,Campaign Y,42670,27884,115
+347,05-05-2025,South,Product B,Corporate,Campaign Z,14194,8159,250
+348,08-06-2025,North,Product C,Consumer,None,13947,8062,216
+349,24-05-2025,West,Product D,SMB,None,32238,25276,247
+350,06-05-2025,South,Product A,SMB,Campaign X,12643,11998,160
+351,27-02-2025,East,Product B,Corporate,None,41026,28895,78
+352,10-03-2025,East,Product A,SMB,None,40805,23969,237
+353,27-01-2025,South,Product C,Consumer,None,22223,14210,64
+354,23-04-2025,North,Product B,Consumer,Campaign Z,44994,33885,104
+355,07-06-2025,South,Product B,Consumer,Campaign X,42360,27124,163
+356,02-06-2025,South,Product C,SMB,Campaign Z,23961,17469,283
+357,23-06-2025,North,Product B,Corporate,Campaign X,23174,19624,84
+358,29-06-2025,South,Product B,Consumer,Campaign Z,21223,17075,221
+359,06-05-2025,South,Product C,SMB,None,29587,20142,67
+360,14-04-2025,East,Product C,Corporate,None,26449,19381,67
+361,28-04-2025,East,Product A,SMB,None,19275,17101,128
+362,07-05-2025,East,Product C,Corporate,Campaign Z,40868,29881,268
+363,29-03-2025,North,Product A,Consumer,None,6067,3334,100
+364,23-04-2025,West,Product A,Corporate,Campaign Y,13645,11637,174
+365,10-02-2025,East,Product A,SMB,Campaign Z,21409,11410,104
+366,14-01-2025,West,Product C,SMB,Campaign Y,33130,25251,68
+367,01-01-2025,South,Product D,Consumer,Campaign Y,43907,25926,247
+368,03-01-2025,North,Product C,Consumer,None,13662,9441,137
+369,09-04-2025,North,Product A,Consumer,Campaign Z,29088,24794,90
+370,08-04-2025,South,Product B,Consumer,Campaign X,44997,34198,245
+371,31-03-2025,South,Product B,Corporate,None,19237,10285,71
+372,05-02-2025,North,Product D,Corporate,None,25611,20909,146
+373,12-03-2025,North,Product B,SMB,Campaign Z,6757,5670,174
+374,22-02-2025,South,Product D,Corporate,Campaign X,20685,14437,77
+375,03-03-2025,West,Product A,SMB,Campaign X,28664,25040,87
+376,10-04-2025,West,Product C,SMB,Campaign Y,35868,31627,57
+377,05-01-2025,North,Product A,Corporate,Campaign Y,7610,6613,223
+378,10-05-2025,East,Product D,Corporate,None,10401,7865,295
+379,07-06-2025,South,Product C,Consumer,Campaign Z,10178,7170,124
+380,09-02-2025,East,Product D,SMB,Campaign X,25327,19741,142
+381,15-01-2025,South,Product A,Corporate,Campaign X,34712,25857,48
+382,21-03-2025,South,Product A,Consumer,Campaign Y,5743,3247,197
+383,14-05-2025,East,Product B,Corporate,Campaign Y,22613,17936,80
+384,08-01-2025,East,Product D,Corporate,Campaign X,22232,17450,59
+385,08-05-2025,West,Product C,Consumer,None,42151,23889,100
+386,07-03-2025,North,Product A,Consumer,Campaign X,7886,6651,26
+387,04-03-2025,North,Product D,Corporate,None,14835,8479,38
+388,22-05-2025,West,Product B,Corporate,Campaign Y,32279,27964,183
+389,11-03-2025,North,Product C,Consumer,Campaign X,16753,9872,284
+390,12-01-2025,West,Product A,Corporate,Campaign Z,25361,16000,253
+391,03-01-2025,East,Product B,Corporate,Campaign Z,45810,27350,208
+392,01-06-2025,West,Product B,SMB,Campaign Y,14867,7471,229
+393,07-01-2025,South,Product C,SMB,Campaign X,26955,13493,212
+394,20-03-2025,North,Product B,SMB,Campaign Y,32513,22655,50
+395,06-02-2025,East,Product A,Consumer,Campaign Y,39062,25984,210
+396,28-04-2025,North,Product A,SMB,Campaign Y,46760,38716,58
+397,01-06-2025,North,Product D,SMB,Campaign Y,20517,12652,181
+398,11-04-2025,East,Product C,Corporate,Campaign Z,20309,10761,123
+399,04-02-2025,North,Product B,Consumer,Campaign Y,34462,23655,228
+400,31-01-2025,East,Product B,Corporate,Campaign Z,35365,21431,81
+401,24-01-2025,South,Product C,SMB,Campaign X,19091,15928,187
+402,07-02-2025,North,Product B,Corporate,None,38650,20081,173
+403,08-03-2025,South,Product A,Corporate,None,41434,33115,147
+404,25-01-2025,West,Product A,Consumer,Campaign X,5783,3034,133
+405,03-02-2025,South,Product D,Corporate,Campaign X,43163,31700,58
+406,06-01-2025,North,Product B,SMB,None,13440,7214,189
+407,01-02-2025,North,Product D,Consumer,Campaign Y,42610,28687,222
+408,08-05-2025,North,Product D,SMB,None,16325,10473,115
+409,12-03-2025,East,Product D,Consumer,Campaign X,45246,33829,145
+410,15-06-2025,East,Product D,Corporate,None,8996,4813,216
+411,05-02-2025,West,Product B,SMB,Campaign Y,46337,41593,298
+412,05-01-2025,West,Product C,Corporate,None,27546,23829,277
+413,24-03-2025,West,Product C,Consumer,Campaign X,25897,19133,35
+414,13-03-2025,North,Product D,SMB,Campaign Z,43272,38937,101
+415,26-01-2025,South,Product B,Corporate,Campaign X,19379,14152,218
+416,01-04-2025,South,Product B,Consumer,Campaign Z,28513,24680,34
+417,30-06-2025,East,Product B,SMB,Campaign Y,37258,26708,109
+418,06-05-2025,North,Product A,Consumer,Campaign Y,44430,26103,289
+419,03-05-2025,North,Product C,SMB,Campaign Y,13551,8622,110
+420,24-03-2025,North,Product A,Consumer,Campaign Y,12269,10288,206
+421,19-01-2025,East,Product D,SMB,Campaign X,27056,16793,89
+422,10-02-2025,West,Product D,SMB,Campaign Z,16416,12851,202
+423,27-02-2025,South,Product D,Corporate,Campaign Z,13345,7621,20
+424,29-06-2025,West,Product A,Consumer,Campaign Z,45067,26515,73
+425,08-05-2025,South,Product C,SMB,Campaign X,20597,13155,183
+426,12-02-2025,North,Product C,Corporate,Campaign X,22380,13067,54
+427,31-03-2025,East,Product A,SMB,Campaign X,8155,5336,234
+428,12-02-2025,West,Product D,Corporate,Campaign Z,40784,26515,265
+429,28-05-2025,South,Product B,Corporate,Campaign X,7189,4442,183
+430,08-03-2025,North,Product A,Corporate,Campaign Y,29606,16708,58
+431,21-05-2025,North,Product C,SMB,None,7031,4728,104
+432,05-06-2025,West,Product B,Consumer,Campaign X,26698,15544,117
+433,15-04-2025,East,Product C,Corporate,Campaign Y,11285,5866,271
+434,09-02-2025,North,Product C,Consumer,None,10742,6636,265
+435,21-02-2025,North,Product A,Consumer,Campaign Y,46824,28877,61
+436,02-05-2025,North,Product C,Corporate,None,37053,31789,155
+437,24-01-2025,West,Product B,Corporate,None,29209,16784,42
+438,09-03-2025,West,Product D,Corporate,Campaign Y,22600,16400,97
+439,28-06-2025,North,Product A,SMB,Campaign Z,40484,26945,136
+440,22-05-2025,North,Product D,SMB,None,40095,31066,263
+441,27-05-2025,South,Product D,Corporate,Campaign X,30873,26585,37
+442,09-05-2025,South,Product A,Corporate,Campaign Y,10370,14181,118
+443,02-02-2025,North,Product D,Consumer,None,18232,16388,95
+444,02-06-2025,East,Product C,SMB,Campaign X,10703,7013,223
+445,22-05-2025,East,Product C,SMB,None,5810,4732,287
+446,18-04-2025,North,Product D,Consumer,Campaign Y,42132,30974,71
+447,28-01-2025,North,Product C,SMB,Campaign Z,31928,19337,268
+448,27-05-2025,West,Product A,Consumer,Campaign Z,31409,17511,225
+449,10-01-2025,West,Product C,SMB,Campaign Y,8230,6570,157
+450,06-04-2025,North,Product C,Corporate,Campaign Z,23372,19565,70
+451,28-02-2025,South,Product C,SMB,None,26028,15818,233
+452,04-06-2025,North,Product B,Corporate,Campaign Y,31684,25232,284
+453,06-04-2025,North,Product B,Consumer,Campaign Z,38213,25272,288
+454,26-05-2025,North,Product B,Consumer,Campaign Y,8776,5263,253
+455,13-01-2025,East,Product B,Corporate,Campaign Z,35423,24868,83
+456,24-06-2025,North,Product B,Corporate,None,43931,29804,262
+457,31-05-2025,East,Product C,Consumer,Campaign Z,10923,6707,217
+458,13-01-2025,South,Product B,Consumer,Campaign Y,49413,28792,229
+459,12-05-2025,North,Product A,Corporate,Campaign Y,47426,26998,24
+460,27-02-2025,East,Product C,SMB,Campaign Z,32774,28126,198
+461,28-04-2025,East,Product B,Corporate,Campaign Z,49380,34973,223
+462,30-05-2025,North,Product A,SMB,Campaign Z,41795,31719,164
+463,18-03-2025,North,Product D,Consumer,Campaign Z,23119,17483,161
+464,08-03-2025,East,Product B,Consumer,Campaign Y,8720,7169,226
+465,19-06-2025,East,Product B,SMB,Campaign X,47952,33516,171
+466,08-03-2025,West,Product D,Corporate,Campaign X,43209,33842,117
+467,29-03-2025,South,Product D,SMB,Campaign Z,38247,23716,107
+468,18-06-2025,South,Product C,Consumer,None,13384,10658,113
+469,24-06-2025,East,Product A,Consumer,Campaign Z,19636,15663,177
+470,18-04-2025,East,Product C,Corporate,Campaign Z,35393,29747,260
+471,14-01-2025,North,Product D,Consumer,Campaign X,49610,32378,172
+472,16-04-2025,North,Product B,Consumer,Campaign Y,27457,18222,254
+473,06-02-2025,East,Product B,Consumer,None,26799,20163,110
+474,22-03-2025,North,Product A,Corporate,Campaign Z,18722,15061,106
+475,28-05-2025,South,Product D,Consumer,Campaign Y,45270,30488,239
+476,14-04-2025,West,Product D,Corporate,Campaign X,7472,5331,211
+477,04-01-2025,East,Product B,Consumer,Campaign X,46070,36553,135
+478,27-06-2025,East,Product C,Consumer,Campaign X,30136,21135,176
+479,12-02-2025,North,Product A,Corporate,Campaign Z,34879,27593,288
+480,28-03-2025,West,Product B,Corporate,None,28543,22835,104
+481,14-04-2025,North,Product B,Consumer,Campaign Y,18840,14952,278
+482,13-02-2025,North,Product C,SMB,Campaign X,29588,25168,150
+483,17-05-2025,North,Product A,SMB,Campaign X,47832,39913,44
+484,26-06-2025,North,Product D,Corporate,None,13099,9417,262
+485,29-06-2025,South,Product B,SMB,Campaign X,24733,16530,71
+486,19-06-2025,East,Product B,Corporate,Campaign X,38527,30340,80
+487,14-03-2025,North,Product A,Corporate,Campaign Y,44911,26043,154
+488,14-05-2025,South,Product C,SMB,None,24356,13740,300
+489,08-05-2025,South,Product D,Corporate,Campaign Y,5179,2615,65
+490,29-01-2025,West,Product B,Consumer,Campaign X,11638,10030,138
+491,27-04-2025,East,Product C,Corporate,Campaign X,11541,9524,40
+492,16-03-2025,East,Product C,Corporate,Campaign X,11225,9434,43
+493,03-01-2025,South,Product B,Corporate,Campaign Z,33686,29712,157
+494,24-01-2025,East,Product C,Consumer,Campaign X,31265,20638,253
+495,11-03-2025,West,Product D,Corporate,Campaign Y,12409,6862,50
+496,10-02-2025,North,Product D,SMB,None,42286,32617,112
+497,06-06-2025,West,Product C,SMB,Campaign X,49857,42477,86
+498,04-05-2025,West,Product A,Corporate,None,8012,4208,180
+499,04-01-2025,South,Product C,SMB,Campaign X,33367,25515,147
+500,04-05-2025,East,Product D,Consumer,Campaign X,5763,4364,100
